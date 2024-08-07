@@ -1,0 +1,202 @@
+.first-imgg {
+  height: 60px;
+  font-weight: 60px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.foodman {
+  display: flex;
+  font-weight: bold;
+  font-size: 30px;
+  color: chocolate;
+}
+
+span {
+  color: black;
+}
+
+body {
+  padding: 30px;
+}
+
+
+
+
+ul {
+display: flex;
+    list-style: none;
+    
+}
+
+li {
+    cursor: pointer;
+    font-size: large;
+    font-weight: bold;
+    margin:auto 30px;
+}
+
+
+li:hover {
+    color: chocolate  ;
+ 
+}
+
+section{
+display: flex;
+    
+}
+
+.middle {
+
+    height: 500px;
+    width: 500px;
+}
+
+h1 {
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+pan {
+    color: chocolate;
+}
+p {
+
+    font-size: 30px;
+}
+.first-one {
+    line-height: 1.5;
+}
+
+button {
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: rgb(232, 156, 102);
+    border-radius: 10px;
+    
+}
+pen {
+    color: white;
+}
+
+button:hover {
+    background-color: rgb(243, 121, 34);
+}
+
+
+.second-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+    
+}
+
+h2 {
+    font-size: 45px;
+    font-weight: bolder
+    
+
+}
+
+.second-one {
+    display: flex;
+    justify-content: center;
+    font-size: 23px;
+}
+
+.third-section {
+    padding: 20px;
+    justify-content: space-evenly;
+}
+
+.second-img {
+    height: 200px;
+    width: 200px;
+    margin-left: 70px;
+}
+
+.veg-curry {
+
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+.star-symbol
+{
+    color: gold;
+
+text-align: center;
+}
+
+.tenth {
+
+padding: 40px;
+
+}
+
+.third-div:hover {
+    border: 3px solid rgb(238, 241, 242);
+    border-radius: 15px;
+    cursor: pointer;
+    
+}
+
+.third-img {
+
+    width: 450px;
+    height: 450px;
+
+}
+
+.onto {
+
+    font-size: x-large;
+    margin-left: 120px;
+    padding: 10px;
+}
+
+.cart {
+    margin-left: 20px;
+}
+
+.newer {
+
+    margin-left: 90px;
+    font-size: x-large;
+}
+
+
+
+.style {
+    padding: 10px;
+    margin: 0px;
+}
+
+.pick {
+    padding: 10px;
+}
+  
+
+.Read-More {
+    color: chocolate;
+    
+}
+
+.Read-More:hover {
+    cursor: pointer;
+    
+
+}
+.eke {
+    padding-top: 26px;
+}
+
+.eke:hover {
+    cursor: pointer;
+}
