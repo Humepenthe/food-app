@@ -200,3 +200,15 @@ padding: 40px;
 .eke:hover {
     cursor: pointer;
 }
+
+.third-img {
+
+    background-color: chocolate;
+    border-radius: 50%;
+}
+
+
+.checkbox-one {
+    color: green;
+    background-color: red;
+}
